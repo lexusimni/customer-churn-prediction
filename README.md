@@ -172,3 +172,4 @@ jupyter notebook notebooks/churn_model.ipynb
 👩🏽‍💻 **Alexus Glass**  
 📧 lexusimnitech@gmail.com 
 🔗 [GitHub Profile](https://github.com/lexusimni)
+👥 [Linkedin](https://www.linkedin.com/in/alexus-glass-248061237/)
